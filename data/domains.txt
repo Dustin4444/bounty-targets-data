@@ -35224,7 +35224,7 @@ www.momondo.com
 www.mundi.com.br
 www.swoodoo.com
 app.basecamp.com
-fizzy.do
+app.fizzy.do
 launchpad.37signals.com
 world.hey.com
 accounts.shopify.com
